@@ -264,6 +264,7 @@ nav{
     background-image: url(../img/james-harrison-vpOeXr5wmR4-unsplash2.jpg);
     background-size: cover;
     background-blend-mode: multiply;
+    background-attachment: fixed;
     color: var(--clr-light);
 }
 
